@@ -3,3 +3,4 @@ Best LLMs
 - For RAG Generation
 - Txt2SQL Generation
 - Low Hallucination Rates
+- Text Summarisation
