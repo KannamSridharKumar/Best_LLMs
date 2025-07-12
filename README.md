@@ -1,1 +1,5 @@
-Best Open Source LLMs
+Best LLMs
+- For RAG Embeddings
+- For RAG Generation
+- Txt2SQL Generation
+- Low Hallucination Rates
